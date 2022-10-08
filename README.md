@@ -7,7 +7,7 @@ Description
 Open your terminal, then copy & paste the command in your desired directory location
 
 ```bash
-git clone https://github.com/Andrew011002/
+git clone https://github.com/Andrew011002/Stable-Diffusion
 ```
 
 ## Running
